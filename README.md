@@ -1,32 +1,8 @@
 # 📊 Sentiment Analysis of Product Reviews  
-*Task 3 – Data Science Internship Project*
 
 ## 🔍 Overview
 
 This project applies Natural Language Processing (NLP) techniques to analyze customer reviews and extract insights on sentiment and key themes. It was developed as part of a data science internship and showcases a practical approach to product feedback analysis using Python.
-
----
-
-## 📁 Project Structure
-
-```
-sentiment-analysis-product-reviews/
-│
-├── sentiment_analysis_product_reviews.ipynb         # Main notebook
-├── Sentiment_Analysis_Report_Product_Review_Insights.docx  # Business report
-├── Sentiment Analysis of Product Reviews Presentation.pdf  # Slide deck
-├── sentiment_analysis_product_reviews_notebook.pdf  # PDF version of notebook
-├── data/
-│   └── product_reviews_mock_data.csv                # Mock review dataset
-├── images/
-│   ├── sentiment_distribution.png
-│   ├── wordcloud_positive.png
-│   ├── wordcloud_negative.png
-│   ├── sentiment_by_product.png
-│   └── ...
-├── requirements.txt                                 # Required libraries
-└── README.md                                        # This file
-```
 
 ---
 
@@ -121,5 +97,6 @@ Feedback and suggestions are welcome!
 ## 📌 Author
 
 **Muhammad Zamin**  
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-[Medium Blog](https://medium.com/@your-handle) *(if available)*
+[LinkedIn Profile](https://www.linkedin.com/in/muhammad-zamin-datascience-professional)  
+[Medium Blog](https://muhammadzamin.medium.com)
+[Kaggel](https://www.kaggle.com/muhammadzamin1)
